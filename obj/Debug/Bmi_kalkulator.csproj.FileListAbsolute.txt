@@ -1,0 +1,10 @@
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\bin\Debug\Bmi_kalkulator.exe.config
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\bin\Debug\Bmi_kalkulator.exe
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\bin\Debug\Bmi_kalkulator.pdb
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.csprojAssemblyReference.cache
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.Form1.resources
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.Properties.Resources.resources
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.csproj.GenerateResource.cache
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.exe
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulator\obj\Debug\Bmi_kalkulator.pdb
